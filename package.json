@@ -1,0 +1,25 @@
+{
+  "name": "node_js_02_books",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeIIBlazer/NODE_JS_02_BOOKS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HeIIBlazer/NODE_JS_02_BOOKS/issues"
+  },
+  "homepage": "https://github.com/HeIIBlazer/NODE_JS_02_BOOKS#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.23.2"
+  }
+}
